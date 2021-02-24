@@ -6,8 +6,8 @@ import praw
 import pandas as pd
 
 
-reddit = praw.Reddit(client_id='GdI-aMIryvtD3Q',
-                     client_secret='HcAiQe2qNP5vIPgZ3y9BFeTTrTc',
+reddit = praw.Reddit(client_id='****',
+                     client_secret='****',
                      password='****',
                      user_agent='testscript by /u/licknux',
                      username='licknux')
