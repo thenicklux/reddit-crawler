@@ -1,5 +1,5 @@
 # reddit-crawler
-A reddit crawler made to pull questions in different topics/subreddits 
+A reddit crawler made to pull topics in different topics/subreddits, used to populate a nascent Q&A forum
 
 ## updating topic
 The target subreddit can be changed by updating the subreddit value (e.g. changing 'gmat' to 'dogs')
